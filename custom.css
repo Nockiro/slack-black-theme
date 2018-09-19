@@ -160,9 +160,6 @@ ts-jumper input[type="text"],
     background-color: var(--border-dim);
 }
 
-.c-message_attachment__border {
-	background-color: var(--background-elevated) !important;
-}
 .c-member_slug--link {
     background: var(--background-elevated);
 }
